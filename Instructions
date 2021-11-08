@@ -1,0 +1,9 @@
+Welcome to Connect Four. Read the following instructions to play the game, enjoy!
+
+    Connect Four is a two-player game, where each player picks a colour and has tiles of this colour.
+The first player to connect four tiles in a row - horizontal, vertical or diagonal - emerges the winner of the game.
+
+Launch the game.
+Decide who plays first and start the game by dropping a tile.
+Both players alternate turns in dropping tiles until one player gets FOUR of their tiles in a row.
+The first player to get FOUR tiles in a row wins.
